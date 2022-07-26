@@ -1,0 +1,24 @@
+.btn-br {
+	border-radius: 0 !important;
+	background: linear-gradient(to right, #e30a73, #feae04) !important;
+}
+
+.text-logo {
+	display: inline-block;
+	font: bold 4.5em/1.5 Bebas, sans-serif;
+	font-size: 30px;
+	text-transform: uppercase;
+	background-image: linear-gradient(to right, #e30a73, #feae04) !important;
+	background-size: auto 250%;
+	transition: background-position 0.5s;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-position: 0 100%;
+}
+
+.set-role {
+	width: 40%;
+	text-align: center;
+	border-radius: 8px;
+	font-weight: bold;
+}

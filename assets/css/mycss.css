@@ -1,0 +1,22 @@
+
+.block-with-text {
+    width: 200px;
+    white-space: nowrap;
+    overflow: hidden;
+    display: inline-block;
+    text-overflow: ellipsis;
+    margin: 0;
+}
+.error {
+    color: red!important;
+    font-weight: bold;
+}
+.number-2 {
+    margin-top: 2.5%!important;
+}
+.new-3,.new-4 {
+    margin-top: 2.5%!important;
+}
+.Search {
+    width: 300px!important;
+}
